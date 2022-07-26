@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hawadacirka
-- 👀 I’m interested in developing the websites. Besides that, I like watching the series/movies with subtitles. I are currently in yoga. 
+- 👀 I’m interested in developing the websites. Besides that, I like watching the series/movies with subtitles. 
 - 🌱 I’m currently learning HTML/CSS/JS/REACT
 - 📫 How to reach me: reach my GITHUB.
 
