@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hawadacirka
-- 👀 I’m interested in developing the websites. Besides that, I like watching the series/movies with subtitles. 
-- 🌱 I’m currently learning HTML/CSS/JS/REACT
+- 👀 I’m keen interested in developing the websites. I am new to GitHub and would to get a lot into it. Besides that, I like watching the series/movies with subtitles. 
+- 🌱 I’m currently in HTML/CSS/JS/REACT
 - 📫 How to reach me: reach my GITHUB.
 
 <!---
