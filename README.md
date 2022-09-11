@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hawadacirka
-- 👀 I’m keen interested in developing the websites and apps. I am new to GitHub and would to get a lot into it along my projects.
+- 👀 I’m keen interested in making the things with the programme languages. I am new to GitHub and would to get a lot into it along my projects.
 
 Besides that, I like watching the series/movies with subtitles. 
 - 🌱 I’m currently in HTML/CSS/JS/REACT/TAILWIND
