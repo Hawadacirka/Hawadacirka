@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Hawadacirka
-- 👀 I’m keen interested in making the things with the libraries like React. 
-and get a lot into it along my projects in Github.
+- 👀 I’m keen interested in making the things with up-date technologies.
 
 Besides that, I like watching the series/movies with subtitles. 
-- 🌱 I’m currently in HTML/CSS/JS/REACT/TAILWIND. 
+- 🌱 I want to grow my skills turning into good useful in my work role. 
 
 <!---
 Hawadacirka/Hawadacirka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
